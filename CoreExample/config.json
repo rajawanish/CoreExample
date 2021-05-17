@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "conn": "Server=DESKTOP-CTU2MGF\\SQLEXPRESS;Database=CoreExam_db;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
