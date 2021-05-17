@@ -32,6 +32,9 @@ namespace CoreIdentityExam
             //log.Error("Error!");
             //log.Warn("Warn!");
 
+
+            //change test
+
             Console.ReadLine();
         }
 
