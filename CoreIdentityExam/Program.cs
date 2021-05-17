@@ -33,7 +33,7 @@ namespace CoreIdentityExam
             //log.Warn("Warn!");
 
 
-            //change test
+            Console.WriteLine("Test");
 
             Console.ReadLine();
         }
