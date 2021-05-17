@@ -31,7 +31,7 @@ namespace CoreIdentityExam
             //log.Info("Hello logging world!");
             //log.Error("Error!");
             //log.Warn("Warn!");
-
+            Console.WriteLine( "tesr" );
             Console.ReadLine();
         }
 
